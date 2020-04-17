@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatOn</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_a_message">Type a Message...</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_n_to">Welcome\n To</string>
+</resources>

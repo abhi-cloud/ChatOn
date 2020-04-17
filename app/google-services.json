@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627866967882",
+    "firebase_url": "https://itsyourapp-5ccf8.firebaseio.com",
+    "project_id": "itsyourapp-5ccf8",
+    "storage_bucket": "itsyourapp-5ccf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627866967882:android:8ca55d5921deef66e86bb3",
+        "android_client_info": {
+          "package_name": "com.company.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627866967882-a1uhpq2l2gv3j06g5q2re8l17jk3as15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV7J1AqabritV0UyHFOD2-bmV_lQOjI7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627866967882-a1uhpq2l2gv3j06g5q2re8l17jk3as15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
